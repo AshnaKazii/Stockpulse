@@ -27,8 +27,6 @@ The project follows a modular structure separating authentication, database acce
 
 
 ## Contributors
-- Aditi Jena
-- Aaditi Ajnadkar
 - Ashna Kazi
-
-
+- Aaditi Ajnadkar
+- Aditi Jena

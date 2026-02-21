@@ -30,5 +30,5 @@ The project follows a modular structure separating authentication, database acce
 - Aditi Jena
 - Aaditi Ajnadkar
 - Ashna Kazi
-"# Stockpulse" 
+
 
